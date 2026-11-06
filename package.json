@@ -1,0 +1,8 @@
+{
+  "name": "borsa-hoca-bot",
+  "version": "1.0.0",
+  "private": true,
+  "engines": { "node": ">=22" },
+  "scripts": { "start": "node index.js", "login": "node login.js" },
+  "dependencies": { "telegram": "2.26.22", "input": "1.0.1" }
+}
